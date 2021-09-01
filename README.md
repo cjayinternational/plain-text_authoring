@@ -20,6 +20,6 @@ The parser for memoQ is regex-based. It has been created based on the English As
 
 Note that it is very important to write Asciidoc files with localization in mind. These are a couple of things that technical writers should do to ensure a clean import of the Asciidoc files into memoQ using the provided parser:
 - avoid multi-line comments
-- avoid obsolete newlines
+- avoid unnecessary newlines
 - start every file with a title
 - start paragraphs after comments with a delimiter
